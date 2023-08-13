@@ -2,5 +2,5 @@
 
 A candy crush clone.
 
-![Alt text](match me menu.png?raw=true "Demo")
-![Alt text](match me.png?raw=true "Demo")
+![Alt text](match_me_menu.png?raw=true "Demo")
+![Alt text](match_me.png?raw=true "Demo")
